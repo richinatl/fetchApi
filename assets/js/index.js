@@ -13,4 +13,6 @@ async function getCity(city) {
   console.log(`Located at ${data.latt} lattitude & ${data.longt} longitude`);
 }
 
-getCity("seattle");
+// getCity("seattle");
+// getCity("atlanta");
+getCity("boston");
